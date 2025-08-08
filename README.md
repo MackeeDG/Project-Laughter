@@ -30,4 +30,17 @@ Each model was trained on the same preprocessed dataset and evaluated using clas
 Different configurations, window sizes, and architectures were recorded and compared to identify the most reliable and computationally efficient method.
 
 ## Results:
-The best-performing model (a CNN) demonstrated strong performance in identifying laughter events in conversation audio. Evaluation metrics such as accuracy, precision, recall, and F1-score were used to assess model quality. The C
+The best-performing model (a CNN) demonstrated strong performance in identifying laughter events in conversation audio. Evaluation metrics such as accuracy, precision, recall, and F1-score were used to assess model quality.
+
+## Tools Used
+Python
+Chosen for its simplicity and extensive ecosystem, making it ideal for machine learning and audio processing tasks.
+
+Librosa
+A powerful audio analysis library used for extracting features like MFCCs, RMS, and mel spectrograms, essential for training the models.
+
+TensorFlow & Keras
+Used for building and training deep learning models, including CNN and LSTM architectures.
+
+Matplotlib & Seaborn
+Used to visualize model performance through confusion matrices, accuracy/loss graphs, and comparisons, aiding in clear result interpretation.
