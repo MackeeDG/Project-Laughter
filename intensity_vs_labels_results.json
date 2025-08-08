@@ -1,0 +1,7702 @@
+[
+  {
+    "file": "sw02005.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.285,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02006.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.165,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02008.wav",
+    "corr_a": 0.063,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02010.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02012.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02015.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02018.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.176,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02019.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02020.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02022.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02024.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02025.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.158,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02027.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.16,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02028.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.269,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02032.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.27,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02035.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02038.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.155,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02039.wav",
+    "corr_a": -0.05,
+    "corr_b": 0.069,
+    "acc_a": 0.306,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02040.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02041.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02051.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02053.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02060.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.257,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02061.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.281,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02062.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.135,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02064.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02065.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.163,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02067.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02071.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02072.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02073.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.278,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02078.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02079.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02085.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02086.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02090.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.299,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02092.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02093.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02094.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02095.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02101.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02102.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.238,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02104.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.307,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02105.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02107.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.264,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02109.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02110.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.307,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02111.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02113.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.283,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02120.wav",
+    "corr_a": 0.067,
+    "corr_b": 0.069,
+    "acc_a": 0.283,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02121.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02122.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.372,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02124.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.28,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02125.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02130.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.267,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02131.wav",
+    "corr_a": -0.079,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02137.wav",
+    "corr_a": -0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02139.wav",
+    "corr_a": 0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.264,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02145.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02149.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02151.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02154.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02155.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02157.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.261,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02160.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02163.wav",
+    "corr_a": -0.067,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02168.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02171.wav",
+    "corr_a": 0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02175.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02177.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02178.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02180.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02181.wav",
+    "corr_a": -0.074,
+    "corr_b": 0.069,
+    "acc_a": 0.301,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02184.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.247,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02185.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02187.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.291,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02190.wav",
+    "corr_a": 0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02191.wav",
+    "corr_a": 0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02197.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.225,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02205.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.134,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02220.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02221.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02226.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.28,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02227.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.359,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02228.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02229.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02231.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.159,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02232.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02234.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.178,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02235.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02237.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02241.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.272,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02244.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02247.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.334,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02248.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02249.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.276,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02252.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02253.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02259.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02260.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02262.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02263.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02264.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02265.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02266.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02268.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02275.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02278.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02279.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.308,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02283.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02285.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02287.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02290.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02292.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02293.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02295.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02296.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02299.wav",
+    "corr_a": 0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02300.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02301.wav",
+    "corr_a": -0.06,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02302.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02303.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02304.wav",
+    "corr_a": -0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02305.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02308.wav",
+    "corr_a": -0.087,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02309.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02313.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02314.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02316.wav",
+    "corr_a": 0.073,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02323.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02324.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02325.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02330.wav",
+    "corr_a": 0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02331.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02334.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02336.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02339.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02340.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02342.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.153,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02344.wav",
+    "corr_a": -0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02349.wav",
+    "corr_a": -0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.159,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02353.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.271,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02354.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02355.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02362.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02365.wav",
+    "corr_a": 0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.299,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02366.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02368.wav",
+    "corr_a": -0.05,
+    "corr_b": 0.069,
+    "acc_a": 0.153,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02370.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.257,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02372.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02373.wav",
+    "corr_a": 0.05,
+    "corr_b": 0.069,
+    "acc_a": 0.295,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02376.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02379.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02380.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02382.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.137,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02383.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.139,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02386.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02387.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.158,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02389.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02393.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.176,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02395.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02397.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02399.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.26,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02405.wav",
+    "corr_a": -0.05,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02406.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02407.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.253,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02413.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02418.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02421.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02423.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.245,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02424.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02426.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02427.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02429.wav",
+    "corr_a": 0.067,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02431.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02432.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.198,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02433.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.306,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02434.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02435.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.278,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02436.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02437.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02439.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02441.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02442.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02445.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02446.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02448.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.36,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02450.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02451.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02452.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02455.wav",
+    "corr_a": 0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.234,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02457.wav",
+    "corr_a": 0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02460.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.154,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02461.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02465.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02466.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02467.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02469.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02471.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02472.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02476.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02477.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02478.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02479.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.144,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02482.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.372,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02483.wav",
+    "corr_a": 0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02485.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.152,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02486.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02488.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.138,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02490.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02492.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02495.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02499.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02501.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02502.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02503.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.233,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02504.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.183,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02506.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.308,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02510.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02511.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02514.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.139,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02515.wav",
+    "corr_a": 0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.228,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02519.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02521.wav",
+    "corr_a": -0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02524.wav",
+    "corr_a": -0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.164,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02525.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02526.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02527.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.27,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02528.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.276,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02533.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.159,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02534.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.318,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02537.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02539.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02540.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02543.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02545.wav",
+    "corr_a": 0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02546.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02547.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.233,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02548.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02549.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02552.wav",
+    "corr_a": 0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02554.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.303,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02557.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02558.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02559.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02562.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.319,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02565.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02566.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02568.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02570.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.164,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02571.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02575.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02576.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02578.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02579.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02584.wav",
+    "corr_a": 0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02585.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.183,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02586.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02587.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02589.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02593.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02594.wav",
+    "corr_a": -0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02597.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02598.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02599.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02602.wav",
+    "corr_a": -0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02603.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02604.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02608.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.382,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02609.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.313,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02610.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.147,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02611.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02614.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02615.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02616.wav",
+    "corr_a": 0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.441,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02617.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02619.wav",
+    "corr_a": -0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.296,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02620.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02621.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.272,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02622.wav",
+    "corr_a": 0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02623.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02627.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02628.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02630.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02631.wav",
+    "corr_a": -0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02634.wav",
+    "corr_a": 0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.164,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02638.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.183,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02640.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02641.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02642.wav",
+    "corr_a": 0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02645.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02647.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02648.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.336,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02650.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.242,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02652.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02653.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02657.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02658.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02661.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.334,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02662.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.14,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02663.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02667.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02669.wav",
+    "corr_a": -0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02672.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02675.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02676.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.238,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02678.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.322,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02679.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02684.wav",
+    "corr_a": -0.062,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02689.wav",
+    "corr_a": -0.083,
+    "corr_b": 0.069,
+    "acc_a": 0.127,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02690.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02691.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02692.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02693.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02703.wav",
+    "corr_a": -0.063,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02707.wav",
+    "corr_a": -0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02708.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02709.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.149,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02710.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02711.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.365,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02713.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02716.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.163,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02717.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02719.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02723.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02724.wav",
+    "corr_a": 0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02726.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02729.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02734.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02736.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02741.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02743.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02744.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02749.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.289,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02751.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02754.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02755.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02756.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.311,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02759.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02761.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.321,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02766.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02767.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.324,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02768.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02770.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.157,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02772.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02773.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.139,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02774.wav",
+    "corr_a": 0.088,
+    "corr_b": 0.069,
+    "acc_a": 0.268,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02775.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02776.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.304,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02780.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02782.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.155,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02784.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02785.wav",
+    "corr_a": 0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02788.wav",
+    "corr_a": -0.065,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02789.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02790.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02792.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.309,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02793.wav",
+    "corr_a": -0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.247,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02794.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.342,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02797.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02800.wav",
+    "corr_a": 0.118,
+    "corr_b": 0.069,
+    "acc_a": 0.417,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02803.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02806.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.304,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02812.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02818.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02819.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02820.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02821.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.16,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02826.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02827.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02828.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02830.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02832.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02834.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02835.wav",
+    "corr_a": 0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.355,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02836.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.292,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02837.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02839.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.154,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02840.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02842.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.277,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02844.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02847.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02849.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02851.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02854.wav",
+    "corr_a": -0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02858.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02860.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02862.wav",
+    "corr_a": 0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.289,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02866.wav",
+    "corr_a": -0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02868.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02870.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02871.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.296,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02874.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02875.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.178,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02876.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02877.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.282,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02879.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02883.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02884.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02887.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.313,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02888.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02889.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.303,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02893.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.183,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02896.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02897.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02898.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.275,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02900.wav",
+    "corr_a": -0.09,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02909.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02910.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.228,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02913.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02915.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02917.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02921.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.278,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02924.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02926.wav",
+    "corr_a": -0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02927.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.324,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02929.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02930.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02932.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02934.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.245,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02935.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.13,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02938.wav",
+    "corr_a": -0.05,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02942.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.233,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02944.wav",
+    "corr_a": -0.064,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02945.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02950.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02952.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02953.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02954.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02955.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.147,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02956.wav",
+    "corr_a": -0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02957.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02959.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02960.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02962.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02963.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02965.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02967.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02968.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02969.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02970.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.13,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02981.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02982.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02983.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02984.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02989.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02991.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02992.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02993.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.399,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02994.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02995.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02996.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.198,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02998.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw02999.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.274,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03000.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03001.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.159,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03002.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03003.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.113,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03004.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.282,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03007.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.138,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03009.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03011.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03012.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03013.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03014.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03015.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03016.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.32,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03018.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03019.wav",
+    "corr_a": -0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03020.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03021.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03023.wav",
+    "corr_a": -0.087,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03025.wav",
+    "corr_a": -0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03028.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03029.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03030.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.24,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03034.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.24,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03036.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.323,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03038.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03039.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03040.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03041.wav",
+    "corr_a": 0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03042.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03045.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03046.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03047.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.382,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03049.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.294,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03050.wav",
+    "corr_a": -0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03051.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.128,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03052.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03054.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.324,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03055.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03056.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03057.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03059.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03061.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03062.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03063.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03064.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03065.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03067.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03068.wav",
+    "corr_a": -0.123,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03069.wav",
+    "corr_a": -0.081,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03070.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03071.wav",
+    "corr_a": -0.082,
+    "corr_b": 0.069,
+    "acc_a": 0.411,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03072.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.288,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03073.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03074.wav",
+    "corr_a": -0.061,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03075.wav",
+    "corr_a": 0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03076.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03077.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03080.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03081.wav",
+    "corr_a": -0.07,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03082.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03083.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03085.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.152,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03086.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03087.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03088.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03090.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03092.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03093.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03095.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03096.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.138,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03097.wav",
+    "corr_a": 0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03099.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03102.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.252,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03103.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03104.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03105.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03107.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03108.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03111.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.258,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03113.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03115.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03118.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03120.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03121.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03124.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.154,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03130.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.194,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03131.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03133.wav",
+    "corr_a": -0.072,
+    "corr_b": 0.069,
+    "acc_a": 0.252,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03134.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03135.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03136.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03138.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.301,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03140.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03142.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03143.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03144.wav",
+    "corr_a": -0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03146.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03148.wav",
+    "corr_a": -0.087,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03150.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03151.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03152.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03154.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03155.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.15,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03156.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03158.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03159.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03161.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03162.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03166.wav",
+    "corr_a": 0.09,
+    "corr_b": 0.069,
+    "acc_a": 0.274,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03167.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03168.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.15,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03169.wav",
+    "corr_a": 0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03170.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03171.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03173.wav",
+    "corr_a": -0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03174.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03175.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.165,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03181.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03182.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.233,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03184.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03185.wav",
+    "corr_a": -0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.271,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03186.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.242,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03187.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.322,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03188.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.136,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03189.wav",
+    "corr_a": -0.084,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03190.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.198,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03191.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03194.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.148,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03195.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.257,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03196.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03198.wav",
+    "corr_a": -0.062,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03200.wav",
+    "corr_a": 0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03201.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.305,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03202.wav",
+    "corr_a": -0.076,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03203.wav",
+    "corr_a": -0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.261,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03204.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03205.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03206.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03207.wav",
+    "corr_a": -0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.254,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03208.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.489,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03214.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03215.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.15,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03216.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.253,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03219.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.166,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03221.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.346,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03223.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.262,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03225.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03226.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.302,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03227.wav",
+    "corr_a": 0.062,
+    "corr_b": 0.069,
+    "acc_a": 0.272,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03228.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03229.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03230.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.363,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03231.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03232.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03233.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.281,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03234.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03235.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.198,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03236.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.264,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03237.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.362,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03238.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03239.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.281,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03242.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03244.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.314,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03245.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03246.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03247.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03250.wav",
+    "corr_a": 0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03251.wav",
+    "corr_a": 0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03252.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.163,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03253.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03254.wav",
+    "corr_a": -0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03255.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03256.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03257.wav",
+    "corr_a": -0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.252,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03259.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03260.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03265.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03266.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03267.wav",
+    "corr_a": -0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.191,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03268.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03269.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03270.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.344,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03271.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03272.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03275.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03276.wav",
+    "corr_a": -0.076,
+    "corr_b": 0.069,
+    "acc_a": 0.315,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03279.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03280.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.254,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03281.wav",
+    "corr_a": 0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.369,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03282.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03283.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.228,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03284.wav",
+    "corr_a": 0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03286.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.297,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03288.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03290.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03291.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03293.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.163,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03294.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03296.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03300.wav",
+    "corr_a": 0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.315,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03303.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03304.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.16,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03306.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.368,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03309.wav",
+    "corr_a": -0.066,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03310.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03311.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03313.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03315.wav",
+    "corr_a": 0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.279,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03317.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03319.wav",
+    "corr_a": -0.089,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03320.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03324.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03325.wav",
+    "corr_a": 0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03326.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.153,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03327.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03328.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03330.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.157,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03331.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.411,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03332.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03333.wav",
+    "corr_a": 0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.257,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03334.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03338.wav",
+    "corr_a": 0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.247,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03340.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03342.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03343.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03344.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03345.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.346,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03346.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03349.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03351.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03352.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03353.wav",
+    "corr_a": 0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03354.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.233,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03355.wav",
+    "corr_a": -0.075,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03359.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03360.wav",
+    "corr_a": -0.065,
+    "corr_b": 0.069,
+    "acc_a": 0.264,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03361.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03362.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03363.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.282,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03364.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03365.wav",
+    "corr_a": 0.079,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03367.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03368.wav",
+    "corr_a": -0.06,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03369.wav",
+    "corr_a": 0.095,
+    "corr_b": 0.069,
+    "acc_a": 0.282,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03371.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.228,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03372.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.133,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03373.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03375.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03377.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03379.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.128,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03381.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03382.wav",
+    "corr_a": -0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03383.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03384.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.155,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03386.wav",
+    "corr_a": 0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03387.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03389.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.33,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03393.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.148,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03397.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03398.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03399.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.388,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03402.wav",
+    "corr_a": -0.072,
+    "corr_b": 0.069,
+    "acc_a": 0.164,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03403.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.198,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03405.wav",
+    "corr_a": -0.044,
+    "corr_b": 0.069,
+    "acc_a": 0.183,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03406.wav",
+    "corr_a": 0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03408.wav",
+    "corr_a": -0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.289,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03409.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03411.wav",
+    "corr_a": 0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.279,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03414.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03417.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03419.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03420.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03421.wav",
+    "corr_a": 0.054,
+    "corr_b": 0.069,
+    "acc_a": 0.307,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03424.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.242,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03425.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03426.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.253,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03427.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.154,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03428.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03429.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03431.wav",
+    "corr_a": 0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03433.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03435.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03439.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.308,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03441.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.299,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03443.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.351,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03445.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03447.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.294,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03448.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.253,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03449.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03450.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03451.wav",
+    "corr_a": 0.081,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03453.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03454.wav",
+    "corr_a": -0.065,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03455.wav",
+    "corr_a": -0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.299,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03457.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03458.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03460.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03463.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03464.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03467.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03473.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.349,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03476.wav",
+    "corr_a": 0.064,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03487.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03489.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03491.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03495.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03496.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03497.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.269,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03500.wav",
+    "corr_a": -0.074,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03503.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03504.wav",
+    "corr_a": -0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.15,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03506.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03508.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.218,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03509.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03513.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03514.wav",
+    "corr_a": -0.073,
+    "corr_b": 0.069,
+    "acc_a": 0.288,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03515.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03517.wav",
+    "corr_a": 0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03518.wav",
+    "corr_a": -0.073,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03521.wav",
+    "corr_a": -0.122,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03523.wav",
+    "corr_a": -0.073,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03524.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03525.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03526.wav",
+    "corr_a": 0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03527.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03530.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.25,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03533.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03535.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03537.wav",
+    "corr_a": -0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03539.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.155,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03541.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03543.wav",
+    "corr_a": -0.069,
+    "corr_b": 0.069,
+    "acc_a": 0.231,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03549.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.414,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03550.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03551.wav",
+    "corr_a": 0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.436,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03554.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.246,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03556.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03557.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.283,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03561.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03563.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03565.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03567.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.317,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03569.wav",
+    "corr_a": 0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03570.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03573.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03574.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03576.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.262,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03580.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03584.wav",
+    "corr_a": -0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.309,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03586.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03587.wav",
+    "corr_a": 0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03591.wav",
+    "corr_a": 0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03595.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03596.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.238,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03597.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.124,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03606.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.26,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03607.wav",
+    "corr_a": -0.067,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03615.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03624.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.262,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03626.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.256,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03628.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.34,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03633.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.157,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03636.wav",
+    "corr_a": -0.04,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03638.wav",
+    "corr_a": -0.038,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03639.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03642.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03646.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03647.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.285,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03651.wav",
+    "corr_a": 0.059,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03655.wav",
+    "corr_a": 0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.332,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03657.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.153,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03658.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03659.wav",
+    "corr_a": -0.06,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03660.wav",
+    "corr_a": 0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03662.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03663.wav",
+    "corr_a": 0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03665.wav",
+    "corr_a": -0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03666.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03675.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03676.wav",
+    "corr_a": 0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03680.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03681.wav",
+    "corr_a": 0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03682.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03686.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.325,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03688.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.275,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03691.wav",
+    "corr_a": 0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.168,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03692.wav",
+    "corr_a": -0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.181,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03693.wav",
+    "corr_a": -0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.171,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03694.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.212,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03696.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03697.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.279,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03699.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03703.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03707.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.19,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03709.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03711.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03716.wav",
+    "corr_a": 0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03720.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03723.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03725.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03727.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03728.wav",
+    "corr_a": 0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03734.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.333,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03735.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.236,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03736.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.128,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03738.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.124,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03743.wav",
+    "corr_a": -0.083,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03745.wav",
+    "corr_a": 0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.196,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03746.wav",
+    "corr_a": 0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03747.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03750.wav",
+    "corr_a": -0.062,
+    "corr_b": 0.069,
+    "acc_a": 0.138,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03751.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.296,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03754.wav",
+    "corr_a": -0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03756.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03760.wav",
+    "corr_a": -0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.234,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03763.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03764.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.271,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03768.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.287,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03769.wav",
+    "corr_a": 0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03770.wav",
+    "corr_a": -0.083,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03773.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.24,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03774.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.296,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03776.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03777.wav",
+    "corr_a": 0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03781.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.222,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03784.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03788.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03791.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.41,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03796.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03797.wav",
+    "corr_a": 0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.151,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03798.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.176,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03801.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.234,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03802.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.138,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03803.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.195,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03804.wav",
+    "corr_a": 0.091,
+    "corr_b": 0.069,
+    "acc_a": 0.277,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03805.wav",
+    "corr_a": -0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03809.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03810.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03811.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03813.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.156,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03815.wav",
+    "corr_a": 0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03821.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03825.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03828.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03830.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03838.wav",
+    "corr_a": 0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.178,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03841.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03845.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03847.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03850.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.325,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03852.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.153,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03855.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw03862.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.286,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04004.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.21,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04008.wav",
+    "corr_a": -0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.208,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04013.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.204,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04019.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.258,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04022.wav",
+    "corr_a": -0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.227,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04023.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04026.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.201,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04028.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04032.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.261,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04033.wav",
+    "corr_a": -0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.199,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04036.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04037.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04038.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.167,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04048.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04049.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04050.wav",
+    "corr_a": 0.058,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04051.wav",
+    "corr_a": -0.061,
+    "corr_b": 0.069,
+    "acc_a": 0.152,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04055.wav",
+    "corr_a": -0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.203,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04056.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.235,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04060.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04064.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04071.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.312,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04072.wav",
+    "corr_a": -0.049,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04074.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.219,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04077.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04078.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04079.wav",
+    "corr_a": 0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.141,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04080.wav",
+    "corr_a": -0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.383,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04082.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04090.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04092.wav",
+    "corr_a": 0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04096.wav",
+    "corr_a": 0.064,
+    "corr_b": 0.069,
+    "acc_a": 0.27,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04099.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04101.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04103.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04104.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04108.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04109.wav",
+    "corr_a": -0.022,
+    "corr_b": 0.069,
+    "acc_a": 0.301,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04113.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04114.wav",
+    "corr_a": -0.081,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04123.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.186,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04127.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04129.wav",
+    "corr_a": -0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04130.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04133.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.335,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04137.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.257,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04138.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.158,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04147.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04148.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.179,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04149.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.242,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04150.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.173,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04151.wav",
+    "corr_a": -0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04152.wav",
+    "corr_a": 0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.289,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04153.wav",
+    "corr_a": -0.078,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04154.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.267,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04155.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04158.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.284,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04159.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.129,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04165.wav",
+    "corr_a": -0.03,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04166.wav",
+    "corr_a": -0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.178,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04168.wav",
+    "corr_a": 0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04171.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04174.wav",
+    "corr_a": -0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.221,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04175.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04177.wav",
+    "corr_a": -0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.279,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04181.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.234,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04184.wav",
+    "corr_a": -0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04311.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04312.wav",
+    "corr_a": -0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04314.wav",
+    "corr_a": 0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.298,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04316.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.242,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04318.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.175,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04319.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.263,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04320.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.272,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04321.wav",
+    "corr_a": 0.023,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04325.wav",
+    "corr_a": -0.057,
+    "corr_b": 0.069,
+    "acc_a": 0.258,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04327.wav",
+    "corr_a": 0.019,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04329.wav",
+    "corr_a": -0.041,
+    "corr_b": 0.069,
+    "acc_a": 0.271,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04330.wav",
+    "corr_a": -0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04333.wav",
+    "corr_a": 0.014,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04334.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.225,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04336.wav",
+    "corr_a": -0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04339.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04340.wav",
+    "corr_a": -0.071,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04341.wav",
+    "corr_a": 0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04342.wav",
+    "corr_a": 0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04345.wav",
+    "corr_a": 0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.259,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04346.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.22,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04347.wav",
+    "corr_a": 0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04349.wav",
+    "corr_a": 0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04353.wav",
+    "corr_a": -0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04356.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04358.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04360.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.327,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04362.wav",
+    "corr_a": -0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.188,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04363.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04364.wav",
+    "corr_a": 0.026,
+    "corr_b": 0.069,
+    "acc_a": 0.296,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04366.wav",
+    "corr_a": 0.075,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04370.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.182,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04372.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04376.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.267,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04378.wav",
+    "corr_a": 0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.35,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04380.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04382.wav",
+    "corr_a": 0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04443.wav",
+    "corr_a": -0.061,
+    "corr_b": 0.069,
+    "acc_a": 0.189,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04483.wav",
+    "corr_a": -0.016,
+    "corr_b": 0.069,
+    "acc_a": 0.255,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04519.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04548.wav",
+    "corr_a": -0.081,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04565.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.302,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04572.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.285,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04603.wav",
+    "corr_a": 0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04605.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.31,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04608.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04611.wav",
+    "corr_a": -0.011,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04615.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04617.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.261,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04618.wav",
+    "corr_a": 0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.24,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04619.wav",
+    "corr_a": 0.021,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04626.wav",
+    "corr_a": 0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04628.wav",
+    "corr_a": -0.01,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04630.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.266,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04633.wav",
+    "corr_a": 0.02,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04642.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04644.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.17,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04646.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04649.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.273,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04655.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.276,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04659.wav",
+    "corr_a": 0.034,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04660.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.217,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04666.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04675.wav",
+    "corr_a": -0.06,
+    "corr_b": 0.069,
+    "acc_a": 0.215,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04679.wav",
+    "corr_a": 0.017,
+    "corr_b": 0.069,
+    "acc_a": 0.282,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04681.wav",
+    "corr_a": 0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.269,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04682.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.169,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04688.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.177,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04691.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.172,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04697.wav",
+    "corr_a": -0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.197,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04698.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04703.wav",
+    "corr_a": -0.074,
+    "corr_b": 0.069,
+    "acc_a": 0.241,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04707.wav",
+    "corr_a": 0.0,
+    "corr_b": 0.069,
+    "acc_a": 0.226,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04709.wav",
+    "corr_a": -0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.232,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04716.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04720.wav",
+    "corr_a": 0.024,
+    "corr_b": 0.069,
+    "acc_a": 0.243,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04721.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.288,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04723.wav",
+    "corr_a": 0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.229,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04725.wav",
+    "corr_a": 0.047,
+    "corr_b": 0.069,
+    "acc_a": 0.307,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04726.wav",
+    "corr_a": -0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.265,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04728.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.187,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04733.wav",
+    "corr_a": 0.018,
+    "corr_b": 0.069,
+    "acc_a": 0.29,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04735.wav",
+    "corr_a": 0.029,
+    "corr_b": 0.069,
+    "acc_a": 0.239,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04736.wav",
+    "corr_a": 0.032,
+    "corr_b": 0.069,
+    "acc_a": 0.224,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04745.wav",
+    "corr_a": -0.043,
+    "corr_b": 0.069,
+    "acc_a": 0.142,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04752.wav",
+    "corr_a": -0.052,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04758.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04759.wav",
+    "corr_a": -0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04765.wav",
+    "corr_a": -0.056,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04770.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.206,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04774.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.162,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04784.wav",
+    "corr_a": 0.036,
+    "corr_b": 0.069,
+    "acc_a": 0.185,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04785.wav",
+    "corr_a": 0.006,
+    "corr_b": 0.069,
+    "acc_a": 0.193,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04788.wav",
+    "corr_a": -0.116,
+    "corr_b": 0.069,
+    "acc_a": 0.258,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04792.wav",
+    "corr_a": -0.001,
+    "corr_b": 0.069,
+    "acc_a": 0.207,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04796.wav",
+    "corr_a": -0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.211,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04799.wav",
+    "corr_a": 0.013,
+    "corr_b": 0.069,
+    "acc_a": 0.237,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04801.wav",
+    "corr_a": 0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.223,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04802.wav",
+    "corr_a": 0.048,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04812.wav",
+    "corr_a": -0.053,
+    "corr_b": 0.069,
+    "acc_a": 0.338,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04814.wav",
+    "corr_a": -0.055,
+    "corr_b": 0.069,
+    "acc_a": 0.213,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04821.wav",
+    "corr_a": 0.012,
+    "corr_b": 0.069,
+    "acc_a": 0.202,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04822.wav",
+    "corr_a": -0.033,
+    "corr_b": 0.069,
+    "acc_a": 0.18,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04826.wav",
+    "corr_a": 0.005,
+    "corr_b": 0.069,
+    "acc_a": 0.249,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04829.wav",
+    "corr_a": 0.009,
+    "corr_b": 0.069,
+    "acc_a": 0.248,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04830.wav",
+    "corr_a": -0.037,
+    "corr_b": 0.069,
+    "acc_a": 0.287,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04831.wav",
+    "corr_a": 0.028,
+    "corr_b": 0.069,
+    "acc_a": 0.174,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04834.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.245,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04840.wav",
+    "corr_a": 0.042,
+    "corr_b": 0.069,
+    "acc_a": 0.157,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04856.wav",
+    "corr_a": -0.004,
+    "corr_b": 0.069,
+    "acc_a": 0.161,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04858.wav",
+    "corr_a": -0.039,
+    "corr_b": 0.069,
+    "acc_a": 0.23,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04859.wav",
+    "corr_a": -0.06,
+    "corr_b": 0.069,
+    "acc_a": 0.205,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04868.wav",
+    "corr_a": -0.015,
+    "corr_b": 0.069,
+    "acc_a": 0.165,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04876.wav",
+    "corr_a": -0.051,
+    "corr_b": 0.069,
+    "acc_a": 0.192,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04877.wav",
+    "corr_a": -0.003,
+    "corr_b": 0.069,
+    "acc_a": 0.154,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04880.wav",
+    "corr_a": -0.025,
+    "corr_b": 0.069,
+    "acc_a": 0.209,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04886.wav",
+    "corr_a": 0.002,
+    "corr_b": 0.069,
+    "acc_a": 0.184,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04890.wav",
+    "corr_a": 0.045,
+    "corr_b": 0.069,
+    "acc_a": 0.328,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04902.wav",
+    "corr_a": 0.027,
+    "corr_b": 0.069,
+    "acc_a": 0.214,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04905.wav",
+    "corr_a": -0.007,
+    "corr_b": 0.069,
+    "acc_a": 0.159,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04908.wav",
+    "corr_a": -0.046,
+    "corr_b": 0.069,
+    "acc_a": 0.2,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04917.wav",
+    "corr_a": 0.035,
+    "corr_b": 0.069,
+    "acc_a": 0.244,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04927.wav",
+    "corr_a": -0.008,
+    "corr_b": 0.069,
+    "acc_a": 0.125,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04928.wav",
+    "corr_a": -0.069,
+    "corr_b": 0.069,
+    "acc_a": 0.216,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04936.wav",
+    "corr_a": -0.031,
+    "corr_b": 0.069,
+    "acc_a": 0.335,
+    "acc_b": 0.231
+  },
+  {
+    "file": "sw04940.wav",
+    "corr_a": -0.066,
+    "corr_b": 0.069,
+    "acc_a": 0.251,
+    "acc_b": 0.231
+  }
+]
